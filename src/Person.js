@@ -25,6 +25,9 @@ class Person extends Component {
 		return (
 			<tr>
 				<td>{person.id}</td>
+				<td>
+					<img src={`public/img/${person.profile}`} />
+				</td>
 				<td>{person.name}</td>
 				<td>{person.age}</td>
 				<td>

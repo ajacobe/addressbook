@@ -1,0 +1,16 @@
+.progress {
+	width: 580px;
+	background-color: #ddd;
+	height: 30px;
+}
+
+.bar {
+	width: 1%;
+	height: 30px;
+	background-color: #4caf50;
+}
+
+img {
+	width: 45px;
+	height: 32px;
+}

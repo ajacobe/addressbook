@@ -24,6 +24,7 @@
 	},
 	"scripts": {
 		"start": "webpack-dev-server --open --mode development",
-		"build": "webpack --mode production"
+		"build": "webpack --mode production",
+		"api": "php data-api.php"
 	}
 }
